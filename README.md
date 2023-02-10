@@ -1,4 +1,3 @@
-# Getting Started with Create React App
 # CalPick
 
 ## 1️⃣ 팀 소개
@@ -70,6 +69,11 @@ COMMON:
 ## 구현 사항 설명
 
 ### 1. 메인 페이지
+* 이벤트 배너 케러셀
+ - setinterval method 사용하여 이벤트 이미지 캐러셀 구현
+* 캘픽 시험일정 카드 케러샐
+ - 시험 일정 Data를 5개씩 새로운 배열에 담는 로직을 구현하여 가공하여 시험별로 Card Components Props를 넘겨 map method로 출력
+ - 클릭시 card Components 너비만큼 이동하는 버튼를 
 ### 2. 소셜 로그인
 ### 3. 로그인 & 회원가입
 ### 4. 시험 리스트 페이지 & 고사장 안내
