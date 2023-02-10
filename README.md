@@ -1,70 +1,85 @@
 # Getting Started with Create React App
+# CalPick
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 1️⃣ 팀 소개
 
-## Available Scripts
+### 1. 프로젝트 Front-end/Back-end 소개
 
-In the project directory, you can run:
+- 개발 인원 : 프론트엔드 4명, 백엔드 2명
+  - 프론트 엔드 : 김우성, 서지연, 이진경, 하평안
+  - 백엔드 : 류건호, 이민규
 
-### `npm start`
+## 2️⃣ 서비스 소개
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 2-1. 서비스 타이틀 및 간단 소개
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- CalPick은 자체적으로 만든 공인 영어 시험 사이트로 calendar의 "Cal"과 좌석을 선택한다는 "Pick"이 합쳐져 만들어진 이름입니다.
+  
+### 2-2. 서비스 목표
 
-### `npm test`
+- 기존의 영어시험 예약 페이지에서의 보완점을 디벨롭시켰습니다.
+  1. 소셜 로그인 기능을 추가해 유저의 로그인 절차를 간편하게 만들어 사용자 경험을 높일 수 있습니다.
+  2. 캘린더 기능을 추가해 시험 일정과 유저의 일정을 비교할 수 있습니다.
+  3. 좌석 선택을 추가해 편안한 환경에서 시험을 볼 수 있다는 장점과 그로인한 사용자의 빠른 유입으로 수익성까지 고려할 수 있습니다.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 3️⃣ 구현기능 분석
 
-### `npm run build`
+### 3. 기술 스택
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- `FrontEnd`: React, Javascript, styled-components, Github
+- `BackEnd`: Javascript, Express, TypeORM, Node.js, Github
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 4. 사이트
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| 사이트                   | 구현 모습                                                                                                                           | 담당 개발자                           |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| 메인 페이지 | <img src = "" width = "400px"> | 프론트엔드:하평안/백엔드:류건호       |
+| 회원가입 | <img src = "" width = "400px"> | 프론트엔드:김우성/백엔드:이민규       |
+| 로그인 | <img src = "" width = "400px"> | 프론트엔드:김우성/백엔드:이민규       |
+| 소셜로그인 | <img src = "" width = "400px"> | 프론트엔드:이진경/백엔드:류건호       |
+| 시험 리스트 페이지 & 고사장안내 | <img src = "" width = "400px"> | 프론트엔드:이진경/백엔드:류건호       |
+| 예약페이지 | <img src = "" width = "400px"> | 프론트엔드:서지연/백엔드:류건호        |
+| 캘린더 | <img src = "" width = "400px"> | 프론트엔드:하평안/백엔드:이민규        |
+| 마이 페이지 | <img src = "" width = "400px"> | 프론트엔드:서지연/백엔드:류건호        |  |
+| Footer | <img src = ""> | 프론트엔드:김우성 |
 
-### `npm run eject`
+### DB ERD
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 기술 스택
+백엔드: 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&amp;logo=Node.js&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=flat&amp;logo=Express&amp;logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;logo=MySQL&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Dbmate-009DC7?style=flat&amp;logo=Bcrypt&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Bcrypt-CA424?style=flat&amp;logo=Bcrypt&amp;logoColor=white">
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+프론트엔드: 
+<img src="https://img.shields.io/badge/Javscript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=white">
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&amp;logo=React&amp;logoColor=white">
+<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&amp;logo=styled-components-DB7093&amp;logoColor=white">
+<img src="https://img.shields.io/badge/React Router-CA4245?style=flat&amp;logo=ReactRouter&amp;logoColor=white">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+COMMON: 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=Git&amp;logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=GitHub&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&amp;logo=Slack&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&amp;logo=Trello&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&amp;logo=Notion&amp;logoColor=white">
+<img src="https://img.shields.io/badge/.env-ECD53F?style=flat&amp;logo=.env&amp;logoColor=white">
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 구현 사항 설명
 
-## Learn More
+### 1. 메인 페이지
+### 2. 소셜 로그인
+### 3. 로그인 & 회원가입
+### 4. 시험 리스트 페이지 & 고사장 안내
+### 5. 예약 페이지
+### 6. 캘린더 페이지
+### 7. 마이 페이지
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Team
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+| [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/96smilepeace) | [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/mia-seo) | [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/ijinkyung) | [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/raincastle1211) | [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/kakao513) | [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/minkku) |
+| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 하평안(FE)                                                                                                                            | 서지연(FE)                                                                                                                              | 이진경(FE)                                                                                                                               | 김우성(FE)                                                                                                                              | 류건호(BE)                                                                                                                           | 이민규(BE)                                                                                                                            |
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
