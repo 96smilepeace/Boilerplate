@@ -22,7 +22,7 @@
   3. 좌석 선택을 추가해 편안한 환경에서 시험을 볼 수 있다는 장점과 그로인한 사용자의 빠른 유입으로 수익성까지 고려할 수 있습니다.
 
 |  모델링 웹사이트 분석 - Figma | <img src=https://user-images.githubusercontent.com/115601551/218238770-cea653d9-284a-4210-923a-807726b2c617.png width="700" height="500"> | 담당 : 하평안 |
-| :--: | :--: |
+| :--: | :--: | :--: |
 |  디자인 레이아웃 - Figma | <img src="" width="700" height="500"> | 담당 : 서지연 |
 |  협업 툴 - Trello | <img src=https://user-images.githubusercontent.com/115601551/218238800-8e7b1b02-714f-465c-a97c-6cdc15d672f6.png width="700" height="500"> | 전체 |
 | WBS - Notion | <img src=https://user-images.githubusercontent.com/115601551/218239918-2dc8018b-9d3e-4f43-bf58-ab4c3c40ec3f.png width="700" height="500"> | 담당 : 서지연 |
