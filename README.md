@@ -25,7 +25,7 @@
 | :--: | :--: |
 |  디자인 레이아웃(figma) | <img src= width="700" height="500"> |
 |  협업 툴(trello) | <img src=https://user-images.githubusercontent.com/115601551/218238800-8e7b1b02-714f-465c-a97c-6cdc15d672f6.png width="700" height="500"> |
-| WBS (notion) | <img src=https://https://user-images.githubusercontent.com/115601551/218238797-ac2452a2-5085-4d7e-ad15-2ea750e3811e.png width="700" height="500"> |
+| WBS (notion) | <img src=https://user-images.githubusercontent.com/115601551/218239918-2dc8018b-9d3e-4f43-bf58-ab4c3c40ec3f.png width="700" height="500"> |
 | 협업 정보 공유(notion) | <img src=https://user-images.githubusercontent.com/115601551/218238810-6a80878f-d6f7-406f-a273-38c8615f601f.png width="700" height="500"> |
 
 ## 3️⃣ 구현기능 분석
