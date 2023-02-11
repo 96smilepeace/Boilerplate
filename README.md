@@ -26,7 +26,7 @@
   
 | 1 | <img width=20% src=https://user-images.githubusercontent.com/115601551/218238810-6a80878f-d6f7-406f-a273-38c8615f601f.png> |
 | :--: | :--: |
-| 2 | <img width=20% src=https://user-images.githubusercontent.com/115601551/218238800-8e7b1b02-714f-465c-a97c-6cdc15d672f6.png> |
+| 2 | <img width="300" height="100" src=https://user-images.githubusercontent.com/115601551/218238800-8e7b1b02-714f-465c-a97c-6cdc15d672f6.png> |
 | 3 | <img width=20% src=https://user-images.githubusercontent.com/115601551/218238797-ac2452a2-5085-4d7e-ad15-2ea750e3811e.png> |
 | 4 | <img width=20% src=https://gif> |
 | 5 | <img width=20% src=https://gif> |
