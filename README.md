@@ -21,13 +21,13 @@
   2. 캘린더 기능을 추가해 시험 일정과 유저의 일정을 비교할 수 있습니다.
   3. 좌석 선택을 추가해 편안한 환경에서 시험을 볼 수 있다는 장점과 그로인한 사용자의 빠른 유입으로 수익성까지 고려할 수 있습니다.
   
-  |  | <img width=50% src=https://gif> |  |
+  | 5 | <img width=50% src=https://gif> | 5 |
 | :--: | :--: | :--: |
-| 5  | <img width=50% src=https://gif> |  |
-| 4 | <img width=50% src=https://gif> |  |
-| 3 | <img width=50% src=https://gif> |  |
-| 2  | <img width=50% src=https://gif> |  |
-| 1 | <img width=50% src=gif> |  |
+| 5  | <img width=50% src=https://gif> | 5 |
+| 4 | <img width=50% src=https://gif> | 5 |
+| 3 | <img width=50% src=https://gif> | 5 |
+| 2  | <img width=50% src=https://gif> | 5 |
+| 1 | <img width=50% src=gif> | 5 |
 
 ## 3️⃣ 구현기능 분석
 
