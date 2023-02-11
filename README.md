@@ -26,7 +26,7 @@
 |  디자인 레이아웃 - Figma | <img src="" width="700" height="500"> | 담당 : 서지연 |
 |  협업 툴 - Trello | <img src=https://user-images.githubusercontent.com/115601551/218238800-8e7b1b02-714f-465c-a97c-6cdc15d672f6.png width="700" height="500"> | 전체 |
 | WBS - Notion | <img src=https://user-images.githubusercontent.com/115601551/218239918-2dc8018b-9d3e-4f43-bf58-ab4c3c40ec3f.png width="700" height="500"> | 담당 : 서지연 |
-| 협업 정보 공유 - Nnotion | <img src=https://user-images.githubusercontent.com/115601551/218238810-6a80878f-d6f7-406f-a273-38c8615f601f.png width="700" height="500"> | Convention : 하평안<br/><br/>디자인 시스템 : 이진경, 서지연<br/><br/>공용 Hook : 이진경, 서지연, 하평안 |
+| 협업 정보 공유 - Nnotion | <img src=https://user-images.githubusercontent.com/115601551/218238810-6a80878f-d6f7-406f-a273-38c8615f601f.png width="700" height="500"> | Convention :<br/>하평안<br/><br/>디자인 시스템 :<br/>이진경, 서지연<br/><br/>공용 Hook :<br/>이진경, 서지연, 하평안 |
 
 ## 3️⃣ 구현기능 분석
 
