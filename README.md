@@ -1,4 +1,4 @@
-                                                                                                                            # CalPick
+# CalPick
 
 ## 1️⃣ 팀 소개
 
