@@ -20,14 +20,17 @@
   1. 소셜 로그인 기능을 추가해 유저의 로그인 절차를 간편하게 만들어 사용자 경험을 높일 수 있습니다.
   2. 캘린더 기능을 추가해 시험 일정과 유저의 일정을 비교할 수 있습니다.
   3. 좌석 선택을 추가해 편안한 환경에서 시험을 볼 수 있다는 장점과 그로인한 사용자의 빠른 유입으로 수익성까지 고려할 수 있습니다.
+
+
+
   
-| 5 | <img width=50% src=https://gif> |
+| 1 | <img width=20% src=https://user-images.githubusercontent.com/115601551/218238810-6a80878f-d6f7-406f-a273-38c8615f601f.png> |
 | :--: | :--: |
-| 5 | <img width=50% src=https://gif> |
-| 4 | <img width=50% src=https://gif> |
-| 3 | <img width=50% src=https://gif> |
-| 2 | <img width=50% src=https://gif> |
-| 1 | <img width=50% src=gif> |
+| 2 | <img width=20% src=https://user-images.githubusercontent.com/115601551/218238800-8e7b1b02-714f-465c-a97c-6cdc15d672f6.png> |
+| 3 | <img width=20% src=https://user-images.githubusercontent.com/115601551/218238797-ac2452a2-5085-4d7e-ad15-2ea750e3811e.png> |
+| 4 | <img width=20% src=https://gif> |
+| 5 | <img width=20% src=https://gif> |
+| 6 | <img width=20% src=https://user-images.githubusercontent.com/115601551/218238770-cea653d9-284a-4210-923a-807726b2c617.png> |
 
 ## 3️⃣ 구현기능 분석
 
